@@ -1,2 +1,5 @@
-var="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
-
+[default]
+aws_access_key_id = AKIA2OGYBAH6STMMNXWZ
+aws_secret_access_key = 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
+output = json
+region = us-east-2
